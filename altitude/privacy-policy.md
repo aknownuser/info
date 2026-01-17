@@ -25,3 +25,8 @@
 ## Data Retention
 - No user data is stored on external servers.
 - Local preferences (temperature unit) are stored on your device only.
+
+## Contact
+
+For privacy-related questions or concerns, please contact us at:
+- Email: creoflux.tabby664@passmail.com
